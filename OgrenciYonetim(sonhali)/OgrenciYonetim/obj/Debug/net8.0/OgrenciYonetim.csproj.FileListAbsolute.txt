@@ -1,0 +1,14 @@
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\obj\Debug\net8.0\OgrenciYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\obj\Debug\net8.0\OgrenciYonetim.AssemblyInfoInputs.cache
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\obj\Debug\net8.0\OgrenciYonetim.AssemblyInfo.cs
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\obj\Debug\net8.0\OgrenciYonetim.csproj.CoreCompileInputs.cache
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\bin\Debug\net8.0\OgrenciYonetim.exe
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\bin\Debug\net8.0\OgrenciYonetim.deps.json
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\bin\Debug\net8.0\OgrenciYonetim.runtimeconfig.json
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\bin\Debug\net8.0\OgrenciYonetim.dll
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\bin\Debug\net8.0\OgrenciYonetim.pdb
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\obj\Debug\net8.0\OgrenciYonetim.dll
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\obj\Debug\net8.0\refint\OgrenciYonetim.dll
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\obj\Debug\net8.0\OgrenciYonetim.pdb
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\obj\Debug\net8.0\OgrenciYonetim.genruntimeconfig.cache
+C:\Users\ali\Desktop\siliconmade\OgrenciYonetim\OgrenciYonetim\obj\Debug\net8.0\ref\OgrenciYonetim.dll
